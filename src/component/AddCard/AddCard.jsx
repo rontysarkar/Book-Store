@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'
 
 const AddCard = ({card}) => {
-
+    
     
     return (
         <div className='flex justify-between shadow p-8 rounded-xl my-6'>
